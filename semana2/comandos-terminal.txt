@@ -1,3 +1,6 @@
+git init
+git checkout -b nombre
+git branch
 mkdir semana2
 cd semana2
 touch preguntas-semana2.txt
@@ -7,4 +10,4 @@ cursor .
 git status
 git add .
 git commit -m "Actividad semana 2"
-git push -u origin url
+git push -u origin nombre dela rama
